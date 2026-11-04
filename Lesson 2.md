@@ -33,4 +33,3 @@ When you take your screenshots during these exercises, save them inside your scr
    * **Description:** Captures the output of df -h, displaying total storage capacity, used space, available space, and mount points (/) across the containerized filesystem.
  * **2. Memory Utilization (memory_usage.png)**
    * **Description:** Shows the output of free -h, illustrating total physical RAM allocated, used memory, and available buffer/cache space in the mobile Linux environment.
-Let me know once you have run these commands and captured your screenshots, and we will move on to **Lesson 3: Managing Running Processes & Services**!
