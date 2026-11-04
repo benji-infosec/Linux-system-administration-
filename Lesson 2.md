@@ -1,9 +1,13 @@
-
 # Lesson 2: Checking Disk Space, Memory, and System Resources
 ## 🎯 Objective
 Learn how to monitor storage allocation, memory (RAM/swap) utilization, and hardware architecture parameters in a Linux environment to ensure system performance, stability, and resource availability.
 ## 💻 Execution Workflow
-Open your Termux terminal, log into Ubuntu (proot-distro login ubuntu), and execute the following system resource commands:
+Open your Termux terminal, log into Ubuntu
+```bash
+proot-distro login ubuntu
+
+```
+and execute the following system resource commands:
 ### Step 1 — Check Filesystem Disk Space Usage
 View disk space availability and partition utilization in a human-readable format (-h):
 ```bash
