@@ -61,10 +61,3 @@ curl --version
  * **Emih Benjamin Nwabuenu**
  * **GitHub:** benji-infosec
  * **Career Focus:** IT Support | Linux Administration | Cybersecurity
-### **Next Steps:**
- 1. Create a new GitHub repository named **linux-system-administration**.
- 2. Create a folder named **screenshots** and upload your 3 screenshots, naming them:
-   * pkg_update.png
-   * pkg_upgrade.png
-   * curl_version.png
- 
